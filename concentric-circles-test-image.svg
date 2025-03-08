@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <!-- Background -->
+  <rect width="1000" height="800" fill="#e0e0e0"/>
+  
+  <!-- First marker set -->
+  <circle cx="250" cy="250" r="60" fill="black"/>
+  <circle cx="250" cy="250" r="40" fill="white"/>
+  <circle cx="250" cy="250" r="20" fill="black"/>
+  
+  <!-- Second marker set -->
+  <circle cx="750" cy="250" r="60" fill="black"/>
+  <circle cx="750" cy="250" r="40" fill="white"/>
+  <circle cx="750" cy="250" r="20" fill="black"/>
+  
+  <!-- Third marker set -->
+  <circle cx="250" cy="550" r="60" fill="black"/>
+  <circle cx="250" cy="550" r="40" fill="white"/>
+  <circle cx="250" cy="550" r="20" fill="black"/>
+  
+  <!-- Fourth marker set -->
+  <circle cx="750" cy="550" r="60" fill="black"/>
+  <circle cx="750" cy="550" r="40" fill="white"/>
+  <circle cx="750" cy="550" r="20" fill="black"/>
+  
+  <!-- Fifth marker set (different size) -->
+  <circle cx="500" cy="400" r="90" fill="black"/>
+  <circle cx="500" cy="400" r="60" fill="white"/>
+  <circle cx="500" cy="400" r="30" fill="black"/>
+</svg>
