@@ -1,0 +1,10 @@
+{
+  "name": "Subpx Test",
+  "image": "ubuntu:22.04",
+  "postCreateCommand": "apt update && apt install -y libopencv-dev libeigen3-dev libfmt-dev",
+  "customizations": {
+                    "vscode": {
+                        "extensions": ["ms-vscode.cpptools"]
+                    }
+                }
+}
